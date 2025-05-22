@@ -87,8 +87,8 @@ CertiChain-A-Blockchain-Based-Digital-Certificate-Authentication-System/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TrustEaseCertify.git
-   cd TrustEaseCertify
+   git clone https://github.com/your-username/CertiChain.git
+   cd CertiChain
    ```
 2. Install dependencies:
    - **Frontend:**
